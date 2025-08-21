@@ -1,2 +1,0 @@
-# img-for-RPC
-none
